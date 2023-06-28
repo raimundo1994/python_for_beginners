@@ -57,9 +57,7 @@ Para iniciar o Anaconda Navigator, você pode procurar pelo aplicativo no menu I
 anaconda-navigator
 ```
 
-A partir do Anaconda Navigator, você
-
- pode criar e gerenciar ambientes virtuais, instalar pacotes e iniciar aplicativos como o Jupyter Notebook, que é uma ferramenta popular para programação interativa em Python.
+A partir do Anaconda Navigator, você pode criar e gerenciar ambientes virtuais, instalar pacotes e iniciar aplicativos como o Jupyter Notebook, que é uma ferramenta popular para programação interativa em Python.
 
 ## 🤝 Contribuição
 
